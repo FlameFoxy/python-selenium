@@ -1,0 +1,10 @@
+[
+  "tests/front/selenium.qa.studio-main/tests/test_first.py::test_product_view_sku",
+  "tests/front/selenium.qa.studio-main/tests/test_first.py::test_smoke",
+  "tests/front/selenium.qa.studio-main/tests/test_shop.py::test_count_of_all_products",
+  "tests/front/selenium.qa.studio-main/tests/test_shop.py::test_products_group",
+  "tests/front/selenium.qa.studio-main/tests/test_shop.py::test_right_way",
+  "tests/front/selenium.qa.studio-main/tests/test_shop.py::test_top_menu",
+  "tests/front/test_smoke.py::test_product_view_sku",
+  "tests/test_pokemon.py::test_StatusCode"
+]

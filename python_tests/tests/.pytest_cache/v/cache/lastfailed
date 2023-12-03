@@ -1,0 +1,4 @@
+{
+  "tests/api/test_pokemon.py::test_StatusCode": true,
+  "tests/front/selenium.qa.studio-main/tests/test_shop.py::test_products_group": true
+}
